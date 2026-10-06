@@ -238,49 +238,49 @@ The project uses Python's datetime module to automatically store the date and ti
 This provides a record of when each journal entry was created.
 
 ## ✅ Advantages
-Simple and easy-to-use command-line interface
-No database required
-Journal data is stored permanently in a text file
-New entries can be added without deleting old entries
-Entries can be searched using keywords
-Date and time are stored automatically
-Handles common file errors
-Demonstrates practical Python and OOP concepts
+- Simple and easy-to-use command-line interface
+- No database required
+- Journal data is stored permanently in a text file
+- New entries can be added without deleting old entries
+- Entries can be searched using keywords
+- Date and time are stored automatically
+- Handles common file errors
+- Demonstrates practical Python and OOP concepts
 
 ## ⚠️ Limitations
-The application works through the command line only.
-Data is stored in a text file instead of a database.
-There is no user authentication.
-Entries cannot be edited individually.
-Deleting all entries removes all stored journal data.
+- The application works through the command line only.
+- Data is stored in a text file instead of a database.
+- There is no user authentication.
+- Entries cannot be edited individually.
+- Deleting all entries removes all stored journal data.
 
 ## 🔮 Future Improvements
 
 The project can be enhanced in the future by adding:
 
-Edit or update individual entries
-Delete a single selected entry
-User login and authentication
-Graphical User Interface (GUI)
-Database storage
-Categories or tags for journal entries
-Export journal entries to PDF
-Password protection
-Improved search and filtering
+- Edit or update individual entries
+- Delete a single selected entry
+- User login and authentication
+- Graphical User Interface (GUI)
+- Database storage
+- Categories or tags for journal entries
+- Export journal entries to PDF
+- Password protection
+- Improved search and filtering
 
 ## 🎓 Learning Outcome
 
 Through this project, I learned how to:
 
-Build a menu-driven Python application.
-Design a program using Object-Oriented Programming.
-Create and use classes and objects.
-Work with text files in Python.
-Use different file modes such as r, w, a, and x.
-Handle file-related exceptions.
-Store date and time with user data.
-Implement searching and deletion functionality.
-Create a complete Python project suitable for practical submission.
+- Build a menu-driven Python application.
+- Design a program using Object-Oriented Programming.
+- Create and use classes and objects.
+- Work with text files in Python.
+- Use different file modes such as r, w, a, and x.
+- Handle file-related exceptions.
+- Store date and time with user data.
+- Implement searching and deletion functionality.
+- Create a complete Python project suitable for practical submission.
 
 ## 📸 Project Screenshots
 
