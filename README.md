@@ -106,13 +106,11 @@ The user can select the Exit option to close the application.
 
 Thank you for using Personal Journal Manager. Goodbye!
 
-📋 Main Menu
+## 📋 Main Menu
 
 When the program starts, the main menu is displayed first.
 
-=============================================
 Welcome to Personal Journal Manager!
-=============================================
 
 Please select an option:
 1. Add a New Entry
