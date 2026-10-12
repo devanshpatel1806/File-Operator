@@ -286,19 +286,20 @@ Through this project, I learned how to:
 ## 📸 Project Screenshots
 
 ### 1. Main Menu
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](main_menu.png)
 
-### 2. Add Entry
-![Add Entry](screenshots/add_entry.png)
+### 2. Add a New Entry
+![Add Entry](add_entry.png)
 
-### 3. View Entries
-![View Entries](screenshots/view_entries.png)
+### 3. View All Entries
+![View Entries](view_entries.png)
 
-### 4. Search Entry
-![Search Entry](screenshots/search_entry.png)
+### 4. Search for an Entry
+![Search Entry](search_entry.png)
 
-### 5. Delete Entries
-![Delete Entries](screenshots/delete_entries.png)
+### 5. Delete All Entries
+![Delete Entries](delete_entries.png)
+
 
 
 ## ✅ Conclusion
