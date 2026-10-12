@@ -282,21 +282,24 @@ Through this project, I learned how to:
 - Implement searching and deletion functionality.
 - Create a complete Python project suitable for practical submission.
 
+
 ## 📸 Project Screenshots
 
-Screenshots of the program execution can be added here.
-
-Example:
-
+### 1. Main Menu
 ![Main Menu](screenshots/main_menu.png)
 
+### 2. Add Entry
 ![Add Entry](screenshots/add_entry.png)
 
+### 3. View Entries
 ![View Entries](screenshots/view_entries.png)
 
+### 4. Search Entry
 ![Search Entry](screenshots/search_entry.png)
 
+### 5. Delete Entries
 ![Delete Entries](screenshots/delete_entries.png)
+
 
 ## ✅ Conclusion
 
